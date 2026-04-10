@@ -8,7 +8,6 @@ import { ResumePreview } from '@/components/resume/ResumePreview';
 import { useToast } from '@/hooks/use-toast';
 import { FileText } from 'lucide-react';
 import { ThemeToggle } from '@/components/layout/ThemeToggle';
-import { Footer } from '@/components/layout/Footer';
 import { initialResumeData } from '@/lib/templates/resume-template-builder';
 
 
@@ -150,7 +149,6 @@ export default function ResumePage() {
           </div>
         </div>
       </div>
-       <Footer />
     </div>
   );
 }

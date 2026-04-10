@@ -6,7 +6,6 @@ import { Navigation } from '@/components/layout/Navigation';
 import { SplashScreen } from '@/components/layout/SplashScreen';
 import { HeroSection } from '@/components/layout/HeroSection';
 import { UpcomingUpdatesSection } from '@/components/layout/UpcomingUpdatesSection';
-import { Footer } from '@/components/layout/Footer';
 import type { ResumeBuilderSectionRef } from '@/components/resume/ResumeBuilderSection';
 
 // Lazy load heavy components
@@ -99,8 +98,6 @@ export default function Home() {
             <UpcomingUpdatesSection />
           </section>
         </main>
-        
-        <Footer />
       </div>
     </>
   );
