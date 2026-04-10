@@ -2,8 +2,6 @@
 
 **An AI-Powered ATS-Friendly Resume Builder with Real-Time Analysis.**
 
-[Live Demo](https://hirebyte.vercel.app) • [Report Bug](https://github.com/subha54820/Resume-builder-ai-platform/issues)
-
 ---
 
 ## 🚀 Quick Start
