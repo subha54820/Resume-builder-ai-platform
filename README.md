@@ -54,11 +54,3 @@ npm run dev
 ```
 
 Visit [http://localhost:9002](http://localhost:9002) to see it in action.
-
-## 👥 Creators
-
-- **Jeeban Krushna Sahu** - [GitHub](https://github.com/Jeeban-2006)
-- **Abhijeet Soren** - [GitHub](https://github.com/Abhijxxt14)
-
----
-Developed by **Subhalaxmi** | Licensed under **MIT**
